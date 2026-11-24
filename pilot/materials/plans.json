@@ -1,0 +1,30 @@
+{
+  "groups": ["Lowest fifth", "Second fifth", "Middle fifth", "Fourth fifth", "Top fifth"],
+  "today": {"name": "Today", "incomes": [22, 46, 72, 108, 252]},
+  "plans": [
+    {
+      "key": "max_average",
+      "name": "Cedar",
+      "incomes": [15, 44, 76, 122, 318],
+      "description": "Low, flat taxes and light regulation. Public support is limited to emergencies; households buy most services for themselves, including health coverage."
+    },
+    {
+      "key": "floor_then_average",
+      "name": "Alder",
+      "incomes": [32, 48, 72, 106, 242],
+      "description": "Every household is guaranteed a minimum income and basic health coverage, paid for by somewhat higher taxes on the upper groups. Otherwise the economy runs much as it does today."
+    },
+    {
+      "key": "max_floor",
+      "name": "Hazel",
+      "incomes": [41, 50, 64, 86, 159],
+      "description": "Taxes and public provision are set at the point that lifts the lowest group's income as high as it can be sustained; pushing any further would shrink the economy enough to lower it again."
+    },
+    {
+      "key": "range_limit",
+      "name": "Birch",
+      "incomes": [36, 52, 68, 90, 144],
+      "description": "Taxes and pay rules keep the top group's average income at no more than four times the lowest group's. Public services are broad and the same for everyone."
+    }
+  ]
+}

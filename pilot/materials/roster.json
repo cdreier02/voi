@@ -1,0 +1,14 @@
+[
+  {"delegate": 1, "group": 3, "card": "You are 41 and work as a hospital nurse; your spouse is a police officer. You have two children in public school, a mortgage on a suburban house, and retirement accounts you pay into every month."},
+  {"delegate": 2, "group": 0, "card": "You are 24 and work warehouse shifts through a temp agency, with hours that change week to week. You share a rented apartment, have no savings, and left community college a few credits short."},
+  {"delegate": 3, "group": 4, "card": "You are 47 and a surgeon; your spouse is an attorney. You have two children in private school, a large house, and a substantial investment portfolio."},
+  {"delegate": 4, "group": 1, "card": "You are 38 and a line cook in a small-town restaurant; your spouse works part-time in retail. You have two children, rent your home, and have a few hundred dollars in the bank."},
+  {"delegate": 5, "group": 2, "card": "You are 34 and teach in a public elementary school; your partner is an apprentice electrician. You have one child and a mortgage on a small suburban house."},
+  {"delegate": 6, "group": 3, "card": "You are 55 and own a heating and cooling business with six employees. You are married with grown children, own your home, and most of what you have is tied up in the business."},
+  {"delegate": 7, "group": 1, "card": "You are 71, widowed, and a retired city bus driver. You live on your public pension in a modest house you own outright, and public health coverage pays for most of your care."},
+  {"delegate": 8, "group": 0, "card": "You are 52 and work part-time as a home health aide. You rent, are raising a grandchild, have no savings, and have a chronic back condition that limits the hours you can work."},
+  {"delegate": 9, "group": 4, "card": "You are 60 and sold the company you founded some years ago. You sit on two boards, and most of your household's income now comes from investments."},
+  {"delegate": 10, "group": 2, "card": "You are 49 and a long-haul truck driver who owns your own rig. You are married with three children, own a house in a rural county, and are still paying off the truck."},
+  {"delegate": 11, "group": 1, "card": "You are 45 and drive deliveries for app-based services in a large city. You are a single parent of a teenager, rent your apartment, and are paying down medical debt."},
+  {"delegate": 12, "group": 3, "card": "You are 29 and a software developer in a large city. You are single, rent your apartment, are paying off student loans, and are starting to build savings."}
+]

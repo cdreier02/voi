@@ -1,0 +1,662 @@
+{
+ "00dd276f41": {
+  "condition": "known",
+  "delegate": 11,
+  "plan_order": [
+   "Cedar",
+   "Hazel",
+   "Alder",
+   "Birch"
+  ],
+  "round": 3
+ },
+ "0959647124": {
+  "condition": "withheld",
+  "delegate": 4,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "0c97a9e3e3": {
+  "condition": "withheld",
+  "delegate": 1,
+  "plan_order": [
+   "Cedar",
+   "Alder",
+   "Hazel",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "0d5dd0633a": {
+  "condition": "known",
+  "delegate": 10,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Hazel",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "0d7d037bfa": {
+  "condition": "withheld",
+  "delegate": 5,
+  "plan_order": [
+   "Hazel",
+   "Cedar",
+   "Birch",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "10d5761fc2": {
+  "condition": "lottery",
+  "delegate": 9,
+  "plan_order": [
+   "Alder",
+   "Birch",
+   "Cedar",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "1621652531": {
+  "condition": "known",
+  "delegate": 11,
+  "plan_order": [
+   "Cedar",
+   "Hazel",
+   "Alder",
+   "Birch"
+  ],
+  "round": 2
+ },
+ "16bf14ae3d": {
+  "condition": "known",
+  "delegate": 4,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "171ee7fb60": {
+  "condition": "lottery",
+  "delegate": 5,
+  "plan_order": [
+   "Hazel",
+   "Cedar",
+   "Birch",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "1d0c6c4af3": {
+  "condition": "known",
+  "delegate": 11,
+  "plan_order": [
+   "Cedar",
+   "Hazel",
+   "Alder",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "207887f9bd": {
+  "condition": "withheld",
+  "delegate": 7,
+  "plan_order": [
+   "Birch",
+   "Alder",
+   "Hazel",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "28a81af28f": {
+  "condition": "withheld",
+  "delegate": 10,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Hazel",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "30fb7c9b49": {
+  "condition": "lottery",
+  "delegate": 7,
+  "plan_order": [
+   "Birch",
+   "Alder",
+   "Hazel",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "3409a14383": {
+  "condition": "known",
+  "delegate": 7,
+  "plan_order": [
+   "Birch",
+   "Alder",
+   "Hazel",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "3791b5a945": {
+  "condition": "lottery",
+  "delegate": 12,
+  "plan_order": [
+   "Hazel",
+   "Alder",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "38383cf115": {
+  "condition": "known",
+  "delegate": 10,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Hazel",
+   "Alder"
+  ],
+  "round": 2
+ },
+ "38fe98b81b": {
+  "condition": "lottery",
+  "delegate": 3,
+  "plan_order": [
+   "Hazel",
+   "Birch",
+   "Cedar",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "3b940359af": {
+  "condition": "known",
+  "delegate": 6,
+  "plan_order": [
+   "Cedar",
+   "Birch",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "3f22796892": {
+  "condition": "lottery",
+  "delegate": 4,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "4b03d2241c": {
+  "condition": "known",
+  "delegate": 3,
+  "plan_order": [
+   "Hazel",
+   "Birch",
+   "Cedar",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "4f14f54dcd": {
+  "condition": "known",
+  "delegate": 8,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Cedar",
+   "Birch"
+  ],
+  "round": 2
+ },
+ "5231fb22d6": {
+  "condition": "known",
+  "delegate": 12,
+  "plan_order": [
+   "Hazel",
+   "Alder",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 2
+ },
+ "5232ae8331": {
+  "condition": "lottery",
+  "delegate": 8,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Cedar",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "53f0a95c62": {
+  "condition": "withheld",
+  "delegate": 3,
+  "plan_order": [
+   "Hazel",
+   "Birch",
+   "Cedar",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "53f1a7e7e9": {
+  "condition": "known",
+  "delegate": 3,
+  "plan_order": [
+   "Hazel",
+   "Birch",
+   "Cedar",
+   "Alder"
+  ],
+  "round": 3
+ },
+ "55e1834986": {
+  "condition": "known",
+  "delegate": 1,
+  "plan_order": [
+   "Cedar",
+   "Alder",
+   "Hazel",
+   "Birch"
+  ],
+  "round": 2
+ },
+ "56ac78babb": {
+  "condition": "withheld",
+  "delegate": 2,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "5cbf83b4c5": {
+  "condition": "known",
+  "delegate": 5,
+  "plan_order": [
+   "Hazel",
+   "Cedar",
+   "Birch",
+   "Alder"
+  ],
+  "round": 2
+ },
+ "5f4d352e31": {
+  "condition": "known",
+  "delegate": 1,
+  "plan_order": [
+   "Cedar",
+   "Alder",
+   "Hazel",
+   "Birch"
+  ],
+  "round": 3
+ },
+ "6053e7f3f5": {
+  "condition": "lottery",
+  "delegate": 1,
+  "plan_order": [
+   "Cedar",
+   "Alder",
+   "Hazel",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "6319d06830": {
+  "condition": "known",
+  "delegate": 7,
+  "plan_order": [
+   "Birch",
+   "Alder",
+   "Hazel",
+   "Cedar"
+  ],
+  "round": 2
+ },
+ "66a3dc1933": {
+  "condition": "known",
+  "delegate": 2,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 2
+ },
+ "6bb7d3e04f": {
+  "condition": "known",
+  "delegate": 5,
+  "plan_order": [
+   "Hazel",
+   "Cedar",
+   "Birch",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "71f2d58517": {
+  "condition": "known",
+  "delegate": 9,
+  "plan_order": [
+   "Alder",
+   "Birch",
+   "Cedar",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "780b45dfad": {
+  "condition": "known",
+  "delegate": 8,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Cedar",
+   "Birch"
+  ],
+  "round": 3
+ },
+ "7bf2219620": {
+  "condition": "known",
+  "delegate": 4,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 2
+ },
+ "851435bf5c": {
+  "condition": "lottery",
+  "delegate": 11,
+  "plan_order": [
+   "Cedar",
+   "Hazel",
+   "Alder",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "8d034a4072": {
+  "condition": "lottery",
+  "delegate": 2,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "8e4b94a3b5": {
+  "condition": "known",
+  "delegate": 9,
+  "plan_order": [
+   "Alder",
+   "Birch",
+   "Cedar",
+   "Hazel"
+  ],
+  "round": 3
+ },
+ "940ded5106": {
+  "condition": "known",
+  "delegate": 10,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Hazel",
+   "Alder"
+  ],
+  "round": 3
+ },
+ "a4eaf54dbd": {
+  "condition": "known",
+  "delegate": 2,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "a660d10098": {
+  "condition": "known",
+  "delegate": 6,
+  "plan_order": [
+   "Cedar",
+   "Birch",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 2
+ },
+ "a766d5aa2e": {
+  "condition": "known",
+  "delegate": 3,
+  "plan_order": [
+   "Hazel",
+   "Birch",
+   "Cedar",
+   "Alder"
+  ],
+  "round": 2
+ },
+ "a90318df9b": {
+  "condition": "known",
+  "delegate": 12,
+  "plan_order": [
+   "Hazel",
+   "Alder",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 3
+ },
+ "b598cd38e6": {
+  "condition": "known",
+  "delegate": 7,
+  "plan_order": [
+   "Birch",
+   "Alder",
+   "Hazel",
+   "Cedar"
+  ],
+  "round": 3
+ },
+ "b72d416b18": {
+  "condition": "known",
+  "delegate": 12,
+  "plan_order": [
+   "Hazel",
+   "Alder",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "c1c017f514": {
+  "condition": "known",
+  "delegate": 6,
+  "plan_order": [
+   "Cedar",
+   "Birch",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 3
+ },
+ "c2c0cedb93": {
+  "condition": "withheld",
+  "delegate": 8,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Cedar",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "c3a184d69c": {
+  "condition": "lottery",
+  "delegate": 10,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Hazel",
+   "Alder"
+  ],
+  "round": 1
+ },
+ "c7d608c61e": {
+  "condition": "withheld",
+  "delegate": 11,
+  "plan_order": [
+   "Cedar",
+   "Hazel",
+   "Alder",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "d7393857f9": {
+  "condition": "known",
+  "delegate": 2,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 3
+ },
+ "e4f45801ec": {
+  "condition": "withheld",
+  "delegate": 6,
+  "plan_order": [
+   "Cedar",
+   "Birch",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "e66a9c3fd2": {
+  "condition": "known",
+  "delegate": 5,
+  "plan_order": [
+   "Hazel",
+   "Cedar",
+   "Birch",
+   "Alder"
+  ],
+  "round": 3
+ },
+ "e7494db029": {
+  "condition": "known",
+  "delegate": 8,
+  "plan_order": [
+   "Alder",
+   "Hazel",
+   "Cedar",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "e987e4f756": {
+  "condition": "known",
+  "delegate": 4,
+  "plan_order": [
+   "Birch",
+   "Cedar",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 3
+ },
+ "eaba694a0e": {
+  "condition": "known",
+  "delegate": 9,
+  "plan_order": [
+   "Alder",
+   "Birch",
+   "Cedar",
+   "Hazel"
+  ],
+  "round": 2
+ },
+ "eebac2f6e3": {
+  "condition": "known",
+  "delegate": 1,
+  "plan_order": [
+   "Cedar",
+   "Alder",
+   "Hazel",
+   "Birch"
+  ],
+  "round": 1
+ },
+ "f5355401ca": {
+  "condition": "withheld",
+  "delegate": 12,
+  "plan_order": [
+   "Hazel",
+   "Alder",
+   "Birch",
+   "Cedar"
+  ],
+  "round": 1
+ },
+ "ff9160539a": {
+  "condition": "withheld",
+  "delegate": 9,
+  "plan_order": [
+   "Alder",
+   "Birch",
+   "Cedar",
+   "Hazel"
+  ],
+  "round": 1
+ },
+ "ffe7e44c62": {
+  "condition": "lottery",
+  "delegate": 6,
+  "plan_order": [
+   "Cedar",
+   "Birch",
+   "Alder",
+   "Hazel"
+  ],
+  "round": 1
+ }
+}

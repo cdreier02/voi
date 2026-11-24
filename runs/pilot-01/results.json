@@ -1,0 +1,90 @@
+{
+ "conditions": {
+  "known": {
+   "first_choices": {
+    "1": {
+     "Cedar": 7,
+     "Alder": 0,
+     "Hazel": 2,
+     "Birch": 3,
+     "Today": 0
+    },
+    "2": {
+     "Cedar": 5,
+     "Alder": 7,
+     "Hazel": 0,
+     "Birch": 0,
+     "Today": 0
+    },
+    "3": {
+     "Cedar": 5,
+     "Alder": 7,
+     "Hazel": 0,
+     "Birch": 0,
+     "Today": 0
+    }
+   },
+   "outcome": "fails",
+   "mean_rank": {
+    "Cedar": 2.8333333333333335,
+    "Alder": 1.8333333333333333,
+    "Hazel": 3.8333333333333335,
+    "Birch": 3.5,
+    "Today": 3.0
+   },
+   "theory_vocabulary": {
+    "replies": 36,
+    "with_hit": 0,
+    "terms": {}
+   }
+  },
+  "lottery": {
+   "first_choices": {
+    "1": {
+     "Cedar": 0,
+     "Alder": 12,
+     "Hazel": 0,
+     "Birch": 0,
+     "Today": 0
+    }
+   },
+   "outcome": null,
+   "mean_rank": {
+    "Cedar": 3.1666666666666665,
+    "Alder": 1.0,
+    "Hazel": 3.6666666666666665,
+    "Birch": 4.916666666666667,
+    "Today": 2.25
+   },
+   "theory_vocabulary": {
+    "replies": 12,
+    "with_hit": 0,
+    "terms": {}
+   }
+  },
+  "withheld": {
+   "first_choices": {
+    "1": {
+     "Cedar": 0,
+     "Alder": 0,
+     "Hazel": 12,
+     "Birch": 0,
+     "Today": 0
+    }
+   },
+   "outcome": null,
+   "mean_rank": {
+    "Cedar": 5.0,
+    "Alder": 3.0,
+    "Hazel": 1.0,
+    "Birch": 2.0,
+    "Today": 4.0
+   },
+   "theory_vocabulary": {
+    "replies": 12,
+    "with_hit": 0,
+    "terms": {}
+   }
+  }
+ }
+}
